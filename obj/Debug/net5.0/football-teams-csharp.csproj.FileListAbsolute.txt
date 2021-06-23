@@ -1,0 +1,15 @@
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.csproj.AssemblyReference.cache
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.AssemblyInfoInputs.cache
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.AssemblyInfo.cs
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.csproj.CoreCompileInputs.cache
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/football-teams-csharp.deps.json
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/football-teams-csharp.runtimeconfig.json
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/football-teams-csharp.runtimeconfig.dev.json
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/football-teams-csharp.dll
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/ref/football-teams-csharp.dll
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/bin/Debug/net5.0/football-teams-csharp.pdb
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.dll
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/ref/football-teams-csharp.dll
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.pdb
+/Volumes/Mac/GlassPaper/csharp/football-teams-csharp/obj/Debug/net5.0/football-teams-csharp.genruntimeconfig.cache
